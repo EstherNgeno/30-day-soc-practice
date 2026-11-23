@@ -16,4 +16,4 @@ Each day's notes and artifacts will live in their own folder (for example `day-0
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 01  | TBD   | ⬜     |
+| 01  | [SOC fundamentals & Windows logon triage](day-01/README.md) | ✅     |
